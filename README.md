@@ -1,3 +1,7 @@
+# Simple web client/server system to create, compile and store surveys and results
+### (Exam project)
+<br>
+
 # Exam #1: "Questionario"
 ## Student: s281599 LASAGNO FRANCESCO 
 
@@ -162,3 +166,7 @@
 
 - francesco.lasagno@gmail.com, password
 - luca.rosso@gmail.com, 1234567890
+
+## Usage
+- on client folder: `npm install; npm start`
+- on server folder: `npm install; nodejs ./server.js`
